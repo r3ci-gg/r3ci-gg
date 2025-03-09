@@ -28,5 +28,5 @@ dMP dMP dMMMMMP  VMMMP" dMP         VMMMP"  VMMMP"
 [![GitHub Streak](https://streak-stats.demolab.com?user=r3ci-gg&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=EBEBEB&excludeDaysLabel=EBEBEB&border=EBEBEB&stroke=EBEBEB&ring=EBEBEB&fire=EB0000&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB)](https://git.io/streak-stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=r3ci&style=for-the-badge">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=r3ci_gg&style=for-the-badge">
 </p>
